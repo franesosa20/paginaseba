@@ -1,0 +1,22 @@
+p {
+    font-style: italic; inset-block: ;
+    font-size: 20px;
+    color: red;
+}
+
+h1 {font-family: Georgia, 'Times New Roman', Times, serif;
+color: black;
+border: chartreuse;
+font-size: 25px;}
+
+li {
+    font-style: normal; 
+    color: black;
+    font-size: 20px;
+}
+ .centrado{ 
+     margin: 10px;
+     display: block;
+
+ }
+    
